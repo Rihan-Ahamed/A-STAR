@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: BALAMURUGAN P    </h3>
-<h3>Register Number: 212224040044       </h3>
+<h3>Name: RIHAN AHAMED S    </h3>
+<h3>Register Number: 212224040276       </h3>
 <H3>Aim:</H3>
 <p>To Implement A * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
